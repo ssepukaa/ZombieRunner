@@ -593,7 +593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e19f654e6a3cda146b42f59ab2d3faaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireRate: 0.05
+  fireRate: 0.15
   weaponRange: 25
   shotDuration: 0
   nextFireTime: 0
